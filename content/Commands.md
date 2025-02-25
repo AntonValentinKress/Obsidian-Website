@@ -12,3 +12,8 @@ Diese Seite enthält die wesentlichen Befehle um mit Quartz und Obsidian über G
 | Sync Data with GitHub | `npx quartz sync`          |
 | Host local            | `npx quartz build --serve` |
 *Für die Befehle muss der `quartz` Ordner aktiviert sein! Nutze `cd quartz`.*
+
+
+
+> [!WARNING] Achtung
+> Contents
