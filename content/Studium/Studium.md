@@ -13,8 +13,8 @@ title: Übersicht
     </div>
 
 Notizen zu den Studiengängen[^1] und zugehörigen Vorlesungen können hier gefunden werden:
-- [[Übersicht Bachelor|Bachelor]]: 
-- [[Übersicht Master|Master]]: 
+- [[Übersicht Bachelor|Bachelor]]
+- [[Übersicht Master|Master]]
 
 
 [^1]: Beide Studienhänge wurden an der [Hochschule Esslingen](https://www.hs-esslingen.de/) belegt.
